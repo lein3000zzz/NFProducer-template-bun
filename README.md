@@ -1,4 +1,4 @@
-# nfproducer-binance
+# nfproducer-template-bun
 
 To install dependencies:
 
@@ -10,6 +10,12 @@ To run:
 
 ```bash
 bun run start
+```
+
+*or*
+
+```bash
+docker compose up
 ```
 
 To generate a uuid for the source:
